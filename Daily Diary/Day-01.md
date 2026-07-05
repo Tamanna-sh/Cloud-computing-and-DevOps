@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 (31/06/26)
 
 today we started with cloud computing and devops training, got intro about the three main cloud platforms which are AWS, GCP and AZURE, these are the major cloud providers everyone uses for hosting and running applications on cloud instead of buying own servers.
 
