@@ -4,6 +4,7 @@ Today, I explored the fundamentals of web servers and server-side technologies.
 
 ## Topics Covered
 
+
 * Learned how browsers communicate with web servers to deliver web pages.
 * Studied different web servers:
 
